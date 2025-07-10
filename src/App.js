@@ -15,7 +15,7 @@ import dellLogo from './assets/dell.png';
 import amazonLogo from './assets/amazon.png';
 
 function App() {
-  const bgColorStops = "#ec4899, #8b5cf6, #06b6d4, #10b981";
+  const bgColorStops = "#0f172a, #164e63, #155e75, #0e7490, #0891b2";
   // "#0f172a, #164e63, #155e75, #0e7490, #0891b2";
   const bgGradient = `linear-gradient(45deg, ${bgColorStops})`;
 
